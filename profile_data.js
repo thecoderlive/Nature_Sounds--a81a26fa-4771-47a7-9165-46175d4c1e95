@@ -1,0 +1,1 @@
+export const item = {"profile_image": "https://the-coder.s3.ap-south-1.amazonaws.com/images_540/477.png", "id": "2b9434e4-50d0-4726-bc2b-1b42ea3a8027", "user_name": "last", "user_id": "toward"}
